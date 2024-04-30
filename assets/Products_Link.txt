@@ -1,0 +1,7 @@
+1."https://res.cloudinary.com/dq6xf1yud/image/upload/v1714398761/f34ce14e7187edeeb026d73413e4a29c_qt6iau.jpg",
+2."https://res.cloudinary.com/dq6xf1yud/image/upload/v1714398958/815f49c8ce3ddd231e2da63ce0596dc4_acsdiy.jpg",
+3."https://res.cloudinary.com/dq6xf1yud/image/upload/v1714398988/38539658df252c621f52c64231e8986a_gbl26m.jpg",
+4."https://res.cloudinary.com/dq6xf1yud/image/upload/v1714399036/8ad1df2ca3d3367baa54e79cf0caeff1_wsthjc.jpg",
+
+
+<-- Provided url for img's are not fetching data. So added exteral source links as mentioned above -->
